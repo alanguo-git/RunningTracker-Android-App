@@ -2,6 +2,8 @@
 This is a running tracking mobile app build using Android Studio.
 Codes are written in java. 
 
+<img src="main.png" width=20% height=20%/> <img src="data.png" width=20% height=20%/> <img src="detail.png" width=20% height=20%/> <img src="graph.png" width=20% height=20%/>
+
 ## Table of Contents
 - [Prerequisites](#Prerequisites)
 - [Installation](#Installation)
